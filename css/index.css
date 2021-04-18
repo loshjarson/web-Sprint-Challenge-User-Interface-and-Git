@@ -144,3 +144,78 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header {
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+}
+
+nav {
+    display: inline-flex;
+    width: 39rem;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+header img {
+    margin-bottom: -.1rem;
+}
+
+.top-content img {
+    margin-bottom: 1.5rem;
+}
+
+#box1 {
+    background-color: teal;
+}
+
+#box2 {
+    background-color: gold;
+}
+
+#box3 {
+    background-color: cadetblue;
+}
+
+#box4 {
+    background-color: coral;
+}
+
+#box5 {
+    background-color: crimson;
+}
+
+#box6 {
+    background-color: forestgreen;
+}
+
+#box7 {
+    background-color: darkorchid;
+}
+
+#box8 {
+    background-color: hotpink;
+}
+
+#box9 {
+    background-color: indigo;
+}
+
+#box10 {
+    background-color: dodgerblue;
+}
+
+
+
+.middle-content-about-page {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.middle-content-about-page div {
+    
+}
